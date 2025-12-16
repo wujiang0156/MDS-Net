@@ -84,6 +84,18 @@ Here we present the visualization results on the LEVIR-CD dataset. For detailed 
 <img src="https://github.com/wujiang0156/CLIPformer/blob/main/fig/fig%203%20levir.jpg" width="100%"/>
 </div>
 
+## Cite
+@ARTICLE{10989581,
+  author={Wang, Tao and Bai, Tiecheng and Xu, Chao and Zhang, Erlei and Liu, Bin and Zhao, Xining and Zhang, Hongming},
+  journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing}, 
+  title={MDS-Net: An Image-Text Enhanced Multimodal Dual-Branch Siamese Network for Remote Sensing Change Detection}, 
+  year={2025},
+  volume={18},
+  number={},
+  pages={12421-12438},
+  keywords={Feature extraction;Transformers;Remote sensing;Semantics;Computational modeling;Visualization;Adaptation models;Accuracy;Context modeling;Training;Change detection;multimodal learning;remote sensing image;Siamese network;transformer},
+  doi={10.1109/JSTARS.2025.3567508}}
+
 ## Acknowledgement
  Many thanks the following projects's contributions to **CLIPFormer**.
 - [MACT-UNet](https://github.com/open-mmlab/mmsegmentation)
