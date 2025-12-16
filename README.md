@@ -4,7 +4,8 @@ MDS-Net： An Image-Text Enhanced Multimodal Dual-Branch Siamese Network for Rem
 ## Introduction
 
 In this work, we propose a new change detection framework, CLIPFormer, which leverages pretraining knowledge from CLIP and the Swin transformer. 
- ![Uploading image.png…]()
+
+<img width="1230" height="669" alt="image" src="https://github.com/user-attachments/assets/232e3dc4-153e-40fe-a665-46c4edf9c7d1" />
 
 ## Install
 - First, you need to download mmsegmentation and install it on your server.
