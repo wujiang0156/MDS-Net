@@ -1,11 +1,11 @@
-# CLIPformer
+# MDS-Net
 
-CLIPFormer: Language-Driven Remote Sensing Change Detection with Context-Aware Prompts
-
+MDS-Net： An Image-Text Enhanced Multimodal Dual-Branch Siamese Network for Remote Sensing Change Detection
 ## Introduction
 
 In this work, we propose a new change detection framework, CLIPFormer, which leverages pretraining knowledge from CLIP and the Swin transformer. 
- 
+ ![Uploading image.png…]()
+
 ## Install
 - First, you need to download mmsegmentation and install it on your server.
 - Second, Place clipformer.py, swinclip, cswin_text_head.py, and other .py files in the corresponding directory of mmsegmentation..
